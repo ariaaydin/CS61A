@@ -1,0 +1,8 @@
+Create a visualization of an iterative or recursive process of your choosing, using turtle graphics. 
+Your implementation must be written entirely in Scheme using the interpreter you have built. 
+All computation must be done in Scheme.
+
+We will have two categories of submissions:
+
+Featherweight: Fewer than 512 Scheme tokens (including parentheses)
+Heavyweight: Fewer than 4096 Scheme tokens (including parentheses)
